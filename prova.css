@@ -1,0 +1,141 @@
+/*pagina inial */
+
+
+body{
+    
+    margin: 0;
+    background-color:  #FFFFFF;
+    font-family: 'Arial', sans-serif;
+
+}
+.logo{
+  position: absolute;
+  top: 23%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 0px;
+
+}
+
+  .imagemlogo
+  {
+    width: 60%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+  }
+
+
+  .banner {
+    background-image: url("https://th.bing.com/th/id/OIP.6iLQC3cXL0c4qHEpLcmraQHaE7?w=249&h=180&c=7&r=0&o=5&pid=1.7");
+      background-size: cover;
+      width: 140%;
+      height: 390px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-radius: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-top: 0px;
+      width: 100%;
+    }
+    
+   
+    .menu-container{
+        border-radius: 0px;
+        background-color: #8c8884;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-top: 0px;
+        width: 100%;
+        box-shadow: 0px 3px 6px rgba(0 , 0 , 0 ,0 , 5 );
+        border:3px solid #130d0d;
+        margin-bottom: opx;
+    }
+    .menu{
+        text-align: center;
+        display:flex;
+        justify-content: space-around;
+    }
+    .menu ul {
+        list-style-type: none;
+        display: flex;
+    }
+    .menu li{
+        text-decoration: none;
+     
+        background-color: #e6d3bd;
+        padding: 4px 20px ;
+        margin: 0px 20px;
+        border-radius: 5px;
+        display: inline-block;
+        width: 250px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:20px;
+        
+        border-color: #153605;
+       
+    }
+    
+    
+    
+    .menu li:hover{
+         
+        box-shadow: 0 px , 3px , 6px rgba(0 , 0 , 0 ,0.8) ;
+        text-decoration: none;
+        background-color:	#FFC0CB}
+    .menu a {
+        text-decoration: none;
+        color: #153605;
+    
+    
+    }
+    .menu a:hover {
+        text-decoration: underline;
+    
+    }
+   
+      .containergaleria {
+        display: flex;
+        justify-content: space-between;
+        object-fit: cover;
+  
+    }
+    
+    .containergaleria img {
+       
+      object-fit: cover;
+    width: 300px; /* Largura desejada para a galeria */
+    height: 300px; /* Altura desejada para a galeria */
+    }
+    
+
+   
+  
+
+
+
+ 
+  
+
+  
+
+
+ 
+
+
+
+
+
+    
+
+
+    
+
+ 
