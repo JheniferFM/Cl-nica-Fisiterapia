@@ -1,25 +1,25 @@
 /* formulario.css */
 
-/* Estilo para o container do formulário */
+
 .container {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #000000;
+    background-color: #b0a6b1;
     border-radius: 10px;
 }
 
-/* Estilo para os campos de entrada */
+
 .form-control {
     margin-bottom: 15px;
 }
 
-/* Estilo para os botões */
+
 .btn {
     margin-right: 10px;
 }
 
-/* Estilo para o link de volta à página principal */
+
 a {
     text-decoration: none;
     color: #333;
